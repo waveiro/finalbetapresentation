@@ -1,14 +1,12 @@
-#img {
-  display: block;
-  margin: auto;
-  height: 128px;
-  width: 128px;
-  padding: 2rem;
+* {
+  box-sizing: border-box;
+  margin: 0;
 }
 
-#canvas {
-  display: block;
-  margin: 2rem auto;
-  width: 540px;
-  height: 540px;
+input[type=radio] {
+margin: 8px auto;
+}
+
+div {
+  margin: 16px auto;
 }
